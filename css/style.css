@@ -39,7 +39,7 @@
 
 body {
   max-width: 1200px;
-  min-width: 1000px;
+  min-width: 999px;
   margin: 0 auto;
 
   color: #353535;
